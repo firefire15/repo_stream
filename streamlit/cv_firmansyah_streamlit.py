@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 with st.sidebar:
-    image_url = "C:\\Users\\USER\\PycharmProjects\\cv_firmansyah\\streamlit\\pas photo.jpg"
+    image_url = "https://github.com/firefire15/repo_stream/blob/master/streamlit/pas%20photo.jpg"
     st.image(image_url, caption="", width=250)
     st.text("Sebagai seorang profesional lulusan Universitas Telkom dan Universitas Kristen Maranatha yang telah berpengalaman di bidang Teknologi informasi khususnya pada Software Engineer dengan spesialisai Backend Engineer dan analisis data sejak tahun 2016. Telah bekerja pada beberapa perusahaan baik nasional maupun multinasional yang memiliki beberapa kemampuan seperti pemrograman python, Java, Hibernate serta beberapa database seperti MySQL dan MongoDB. ")
 
@@ -49,3 +49,4 @@ st.write("---")
 
 st.markdown("#### Sertifikasi")
 st.markdown('SAP Fundamental EDUGATES® International Limited - Auckland Aotearoa New Zealand 2013')
+st.write("---")
